@@ -1,0 +1,63 @@
+.card {
+  float: wrap;
+  border-radius: 10px;
+  width: 320px;
+  height: 620px;
+  margin: 10px;
+  padding: 5px;
+  border: 10Px solid black;
+  background-color: darkslategrey;  
+    }
+
+.card-picture {
+  display: block;
+  margin-left: 10px;
+  margin-right: 10px;
+  }
+
+  .card-title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bolder;
+  background-color: white;
+  color: black; 
+  font-family: ms gothic; 
+  }
+
+.card-info {
+  display: block;
+  height: 100px;
+  border-radius: 5px;
+  padding: 2px;
+  text-align: center;
+  font-style: italic;
+  color: lightblue;
+  background-color: black;
+  }
+
+.card-details {
+  display: block;
+  list-style: none;
+  border-radius: 5px;
+  color: lightblue;
+  background-color: black;
+  }
+
+span {
+  font-weight: bolder;
+  }
+
+.card-fact {
+  display: block;
+  height: 130px;
+  border-radius: 5px;
+  padding: 1px;
+  text-align: center;
+  font-weight: bolder;
+  background-color: black; 
+  font-size: 1em;
+  color: lightblue; 
+  }
